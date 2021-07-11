@@ -1,8 +1,10 @@
 ---
 title: "RMarkdown_FIrstAssignment_Group5"
-authors: "Adrian Enrico Rodriguez, Gian Carlo Fernandez, Iris Salangad, John Kyle Lluz"
+author: "Adrian Enrico Rodriguez, Gian Carlo Fernandez, Iris Salangad, John Kyle Lluz"
 date: "7/11/2021"
-output: pdf_document
+output:
+  html_document:
+    df_print: paged
 ---
 
 ```{r setup, include=FALSE}
