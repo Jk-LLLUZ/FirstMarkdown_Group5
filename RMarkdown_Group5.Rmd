@@ -1,46 +1,63 @@
 ---
 title: "RMarkdown_FIrstAssignment_Group5"
-<<<<<<< HEAD
-authors: Adrian Enrico Rodriguez, Gian Carlo Fernandez, Iris Salangad, John Kyle Lluz
-date: "7/11/2021"
-output:
-  html_document:
-=======
+<<<<<<< HEAD:
 author: "Adrian Enrico Rodriguez, Gian Carlo Fernandez, Iris Salangad, John Kyle Lluz"
 date: "7/11/2021"
-output:
-  html_document: 
->>>>>>> 8535943d640a5625d6cb99300008bb144db4f3ab
-    df_print: paged
-  pdf_document: default
-author: "Adrian Enrico Rodriguez, Gian Carlo Fernandez, Iris Salangad, John Kyle Lluz"
-date: "7/11/2021"
-output:
- html_document: 
-    df_print: paged
-  pdf_document: default
-  word_document: default
+output: html_document
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
+# Group 5
+# First Markdown Assignment
+## Aside from the reasons mentioned in class, why do we need to study and analyze data?
 
-## Group 5
+### Rico
+Data science is imperative not only in identifying underlying problems within communities, but they are also predecessors to coming up with viable solutions to them.  This is reflected in the report of the Senate Economic Planning Office (2017) regarding solid waste management in the Philippines.  Through the meticulous analysis of data dealing with amount of waste generated, source of wastes among sectors, and composition of solid waste, the organization was able to identify issues surrounding solid waste management in the country.  As a result, solutions were proposed to manage waste more efficiently, and effect positive change.
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+### Gian
+For me, data science and analysis has always been part and parcel for a society to grow and move forward. To make sense of facts and figures and use it as a logical foundation is the simplest pattern in innovating in any field. Descriptive Analysis such as what scientists use now to count COVID-19 cases is what helped the policy-makers to adjudicate the quarantine limitations on a specific area. Inferential Analysis by the Philippine Statistics Authority serves as the national basis of data or census of the citizens. Predictive Analysis by the weather experts is what warns the population for incoming threats, and Causal Analysis made by researchers are what innovates our society. Data Science and Analysis is functional in almost every, if not all fields of our community that are beneficial for our comfort and well-being. And studying or using data analysis is helpful, necessary even, to enter any field and become a functional member of society.
 
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
-```{r cars}
-summary(cars)
-```
+### Lluz
+Data analysis can help in the industry, where production costs can be minimized and product quality and production can be maximized to give both positive results to the producers and consumers. Oftentimes, when the producers simply want to gain maximum profits but neglect their customers, the data would show that there is a decrease in product quality since producers would tend to cut corners. This in turn over time can lead to a poor company and consumer relationship.
 
-## Including Plots
+### Salangad
+These days, studying and analyzing data is already considered a necessity. With this, we acquire problem solving skills. We tend to think logically and solve our issues and problems in a proper manner in a way that is useful and more efficient. Aside from that, we can see that analytics is everywhere. Whenever we use social media, we can see the analytics and it is important to know what these analytics are all about. Knowing analytics is also useful when starting a business to know the trends and patterns. Today in the 21st century, data and analytics are used and created every single second. Being knowledgeable about these data is useful to know the current trends and interests of the consumers.
 
-You can also embed plots, for example:
+## Cite at least one instance or application where data science was used and contributed to policy-making, day-to-day decisions, knowing market trends, and scientific research.
 
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
+### Rico
+Data science is handy in various sectors and occasions.  In policy-making for example, the aforementioned discussion of the Senate Economic Planning Office (2017) regarding solid waste management was able to produce concrete solutions.  One of which is the filing of various laws to further strengthen the Republic Act No. 7160, which focuses on better controlling waste and allocating resources among local government units in order to incur minimum waste.  With regards to day-to-day decisions, data science and statistics is a major contributor in choosing which products to buy in certain markets.  Using brands of toothpaste as an example, consumers would choose products that are more preferred by dentists than the ordinary brand.   The popular brand "Colgate" for example, advertises their toothpaste to be recommended by 9 out of 10 dentists to be better than other brands.  Not only does this increase their credibility, but it also affects consumer preference.
+<a href =”https://ejournals.ph/article.php?id=12731”>https://ejournals.ph/article.php?id=12731 </a> 
+In terms of market trends, perhaps one of the most important applications of data science, statistics can be seen and practiced in the stock market.  One of the key terminologies to be familiar with to find success in stocks is “technical analysis”.
 
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+### Gian
+Data science and statistics, although often overlooked and undervalued, is probably the biggest aid in governing. Good governance is choosing the decisions that benefit the society the most with full consideration towards its members. For our institutions to produce the results that meet the needs of the society, they should make use of all the available resources at their disposal, mostly raw data. A prime example of this would be the City Mayor of Pasig Vico Sotto, who himself gives importance and pride to a ‘data-driven policy making governance.’ Getting a hold of the population’s situation through a comprehensive survey may help the local government in making decisions for city-wide policies, future government-funded projects, and several programs such as the Social Amelioration Program (SAP).
+
+### Lluz
+Outweighing the Pros and Cons of Trophy Hunting
+
+<ol>
+<li> [Pro]Conservation groups have used this as an advantage to help fund their operations </li>
+<li> [Pro]Money gained is used as a means to buy guards and defenses for protecting wildlife against poachers that only gain self-benefit. </li>
+<li> [Con] Funds that are not well managed are often dealt with corruption </li>
+</ol>
+ 
+Conclusion: With data analysis, information about these and other decisions with major effects can be studied and dealt with the best course of action and not just decisions from a day-to-day basis. Continuing about the topic. Since Trophy hunting is still seen as an illegal and inhumane act, further research should be done to gather more data and create a better conclusion of what are the pros and cons of doing so. Once the necessary information is analyzed, there is also a need to take action of what must be done to get the best results based on the research and thus, there is a need to implement a policy to ensure that the best course of action is applied as much as possible. With such policies, there will surely be a change in the trend of the market in the field of Trophy hunting and thus, those with authority with regards to the matter shall adapt based on the presented information of the various data presented.
+
+### Salangad
+Scientists from many disciplines are confronted with a lot of information and are optimistic that the data will help them achieve their scientific aims. For instance, geneticists have linked genetic data to vast databases of people's habits and diseases due to the new sequencing technology that allows for high-resolution genetic sequencing on a wide scale. These discoveries may aid academics in their research of the human genome, enabling them to get a greater understanding of how the genome develops and governs visible characteristics.
+
+## Propose at least one data science topic that you want to pursue: Have a broad description of the topic, describe the availability of the data, what kinds of statistical methods you think you will need, and who would benefit from this study.
+
+### Rico
+In the Philippines, the primary source of energy is coal - a form of non-renewable energy that emits several harmful gases in the atmosphere.  With that, there is a call to explore new methods of providing energy towards Filipino homes with minimal dangers.  This is where renewable energy comes into play.  Currently, the country’s energy mix is made up of 47% coal, 22% natural gas, 6.2% oil, and about 24% renewable energy.  With the given data and others related to it, we may give our analysis on it and see how much farther we can go with renewable energy.  This requires both descriptive and inferential statistics as it touches on describing the data and drawing conclusions and generalizations.
+
+### Gian
+A topic I’m interested in studying is the data science of motorcycle related crimes. I live in the City of Mandaluyong and the Riding-in-tandem Ordinance is implemented in our city. Several datasets of motorcycle related crimes in every municipality may be available online. To know whether the said ordinance truly lowered the crime rates on the applied cities or was it ineffective. If the policy proved useful, do the neighboring cities need the same implementation, or does the ordinance such as this can be improved even more. Inferences such as these may be helpful for keeping the safety of the citizens, and analyzing available previous data is the key in figuring everything out.
+
+### Lluz
+I would like to study the data between using plastic and shifting to paper. The topic is to analyse how much carbon dioxide is stored within these papers and the major effect it leads to the environment. Studies are being done on how much carbon dioxide is retained or released in the production of papers. With this, I would like to propose and analyze the data that will be gathered and draw to a conclusion whether or not the carbon stored in the tree is released in the process of it becoming paper, and how much carbon is still retained in the paper product itself. 
+Conclusion: With data analysis, information about these and other decisions with major effects can be studied and dealt with the best course of action.
+
+### Salangad
+
+I would like to pursue machine learning because I’d like to become a machine learning engineer in the future. Machine learning is a data analysis technique that automates the construction of analytical models. It's a field of artificial intelligence based on the concept that computers can learn from data, recognize patterns, and make choices with little or no human input. There are machine learning techniques that create data analytics and predictive analytics training for the data scientists. This method collects information for statistical analysis. Machine learning examines and digests enormous quantities of data faster than a person can, enabling companies to comprehend and adapt in real time to market and societal developments. Retails can benefit from this study as machine learning helps them to boost revenue and improve customer experience data.
