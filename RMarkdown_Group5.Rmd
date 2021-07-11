@@ -2,17 +2,23 @@
 title: "RMarkdown_FIrstAssignment_Group5"
 <<<<<<< HEAD
 authors: Adrian Enrico Rodriguez, Gian Carlo Fernandez, Iris Salangad, John Kyle Lluz
+<<<<<<< HEAD
 date: "7/11/2021"
 output:
   pdf_document: default
   html_document:
     df_print: paged
 =======
+>>>>>>> c00f83e9d04cbd57135fed1637182f6c334de5ab
+=======
 author: "Adrian Enrico Rodriguez, Gian Carlo Fernandez, Iris Salangad, John Kyle Lluz"
+>>>>>>> 771e54ab72ea0248891a5bcc861996b04e4f4117
 date: "7/11/2021"
 output:
   html_document:
     df_print: paged
+<<<<<<< HEAD
+=======
   pdf_document: default
   word_document: default
 >>>>>>> 771e54ab72ea0248891a5bcc861996b04e4f4117
@@ -22,7 +28,7 @@ output:
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## R Markdown
+## Group 5
 
 This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
 
