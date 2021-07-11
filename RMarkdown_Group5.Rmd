@@ -1,31 +1,15 @@
 ---
 title: "RMarkdown_FIrstAssignment_Group5"
-<<<<<<< HEAD
-authors: Adrian Enrico Rodriguez, Gian Carlo Fernandez, Iris Salangad, John Kyle Lluz
-date: "7/11/2021"
-output:
-  html_document:
-=======
+<<<<<<< HEAD:
 author: "Adrian Enrico Rodriguez, Gian Carlo Fernandez, Iris Salangad, John Kyle Lluz"
 date: "7/11/2021"
-output:
-  html_document: 
->>>>>>> 8535943d640a5625d6cb99300008bb144db4f3ab
-    df_print: paged
-  pdf_document: default
-author: "Adrian Enrico Rodriguez, Gian Carlo Fernandez, Iris Salangad, John Kyle Lluz"
-date: "7/11/2021"
-output:
- html_document: 
-    df_print: paged
-  pdf_document: default
-  word_document: default
+output: html_document
 ---
 
-<<<<<<< HEAD
 # Group 5
 # First Markdown Assignment
 ## Aside from the reasons mentioned in class, why do we need to study and analyze data?
+
 ### Rico
 Data science is imperative not only in identifying underlying problems within communities, but they are also predecessors to coming up with viable solutions to them.  This is reflected in the report of the Senate Economic Planning Office (2017) regarding solid waste management in the Philippines.  Through the meticulous analysis of data dealing with amount of waste generated, source of wastes among sectors, and composition of solid waste, the organization was able to identify issues surrounding solid waste management in the country.  As a result, solutions were proposed to manage waste more efficiently, and effect positive change.
 
@@ -75,28 +59,5 @@ I would like to study the data between using plastic and shifting to paper. The 
 Conclusion: With data analysis, information about these and other decisions with major effects can be studied and dealt with the best course of action.
 
 ### Salangad
+
 I would like to pursue machine learning because I’d like to become a machine learning engineer in the future. Machine learning is a data analysis technique that automates the construction of analytical models. It's a field of artificial intelligence based on the concept that computers can learn from data, recognize patterns, and make choices with little or no human input. There are machine learning techniques that create data analytics and predictive analytics training for the data scientists. This method collects information for statistical analysis. Machine learning examines and digests enormous quantities of data faster than a person can, enabling companies to comprehend and adapt in real time to market and societal developments. Retails can benefit from this study as machine learning helps them to boost revenue and improve customer experience data.
-=======
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
-## Group 5
-
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
-
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
-```{r cars}
-summary(cars)
-```
-
-## Including Plots
-
-You can also embed plots, for example:
-
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
-
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
->>>>>>> 5d850a25a0521f918752ab19b090fdef648e0286
