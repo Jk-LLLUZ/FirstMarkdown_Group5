@@ -1,17 +1,37 @@
 ---
 title: "RMarkdown_FIrstAssignment_Group5"
-<<<<<<< HEAD
-authors: Adrian Enrico Rodriguez, Gian Carlo Fernandez, Iris Salangad, John Kyle Lluz
-date: "7/11/2021"
-output:
-  html_document:
-=======
 author: "Adrian Enrico Rodriguez, Gian Carlo Fernandez, Iris Salangad, John Kyle Lluz"
 date: "7/11/2021"
 output:
   html_document: 
->>>>>>> 8535943d640a5625d6cb99300008bb144db4f3ab
     df_print: paged
   pdf_document: default
 
 ---
+
+Group 5 
+Topic
+
+Question 1
+
+1.
+2.
+3.
+4.
+
+
+Question 2
+1.
+2.
+3.
+4.
+
+
+Question 3
+1.
+2.
+3.
+4.
+
+
+References
