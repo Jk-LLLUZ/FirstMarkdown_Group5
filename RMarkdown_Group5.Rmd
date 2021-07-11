@@ -4,12 +4,23 @@ authors: Adrian Enrico Rodriguez, Gian Carlo Fernandez, Iris Salangad, John Kyle
 date: "7/11/2021"
 output:
   html_document:
+<<<<<<< HEAD
+    df_print: paged
+  pdf_document: default
+=======
+=======
+>>>>>>> edab3a763cc08086e98a8387606796679fc9d0e8
+author: "Adrian Enrico Rodriguez, Gian Carlo Fernandez, Iris Salangad, John Kyle Lluz"
+date: "7/11/2021"
+output:
+  html_document: 
+>>>>>>> 8535943d640a5625d6cb99300008bb144db4f3ab
     df_print: paged
   pdf_document: default
 author: "Adrian Enrico Rodriguez, Gian Carlo Fernandez, Iris Salangad, John Kyle Lluz"
 date: "7/11/2021"
 output:
-  html_document:
+ html_document: 
     df_print: paged
   pdf_document: default
   word_document: default
