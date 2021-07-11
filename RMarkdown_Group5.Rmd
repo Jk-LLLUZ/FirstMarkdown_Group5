@@ -1,12 +1,10 @@
 ---
-title: "RMarkdown_FirstAssignment_Group5"
+title: "RMarkdown FirstAssignment Group5"
 authors: Adrian Enrico Rodriguez, Gian Carlo Fernandez, Iris Salangad, John Kyle Lluz
 date: "7/11/2021"
 output: html_document
 ---
 
-# Group 5
-# First Markdown Assignment
 ## Aside from the reasons mentioned in class, why do we need to study and analyze data?
 
 ### Rico
