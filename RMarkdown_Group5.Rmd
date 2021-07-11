@@ -64,4 +64,4 @@ Conclusion: With data analysis, information about these and other decisions with
 
 I would like to pursue machine learning because I’d like to become a machine learning engineer in the future. Machine learning is a data analysis technique that automates the construction of analytical models. It's a field of artificial intelligence based on the concept that computers can learn from data, recognize patterns, and make choices with little or no human input. There are machine learning techniques that create data analytics and predictive analytics training for the data scientists. This method collects information for statistical analysis. Machine learning examines and digests enormous quantities of data faster than a person can, enabling companies to comprehend and adapt in real time to market and societal developments. Retails can benefit from this study as machine learning helps them to boost revenue and improve customer experience data.
 
-![Alt text](/Users/Lenovo/Documents/R/picture.png) 
+![Alt text](\Lenovo\Documents\R\ENGG 21.png) 
