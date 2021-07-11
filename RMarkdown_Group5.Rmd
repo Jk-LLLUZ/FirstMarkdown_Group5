@@ -1,6 +1,6 @@
 ---
 title: "RMarkdown_FIrstAssignment_Group5"
-author: "John Kyle C. Lluz"
+author: "Iris Salangad"
 date: "7/11/2021"
 output: pdf_document
 ---
