@@ -1,6 +1,6 @@
 ---
 title: "RMarkdown_FIrstAssignment_Group5"
-author: "Iris Salangad"
+authors: "Adrian Enrico Rodriguez, Gian Carlo Fernandez, Iris Salangad, John Kyle Lluz"
 date: "7/11/2021"
 output: pdf_document
 ---
