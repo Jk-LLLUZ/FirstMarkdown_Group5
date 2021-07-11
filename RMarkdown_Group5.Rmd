@@ -1,7 +1,6 @@
 ---
-title: "RMarkdown_FIrstAssignment_Group5"
-<<<<<<< HEAD:
-author: "Adrian Enrico Rodriguez, Gian Carlo Fernandez, Iris Salangad, John Kyle Lluz"
+title: "RMarkdown_FirstAssignment_Group5"
+authors: Adrian Enrico Rodriguez, Gian Carlo Fernandez, Iris Salangad, John Kyle Lluz
 date: "7/11/2021"
 output: html_document
 ---
