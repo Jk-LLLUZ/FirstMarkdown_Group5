@@ -1,11 +1,21 @@
 ---
 title: "RMarkdown_FIrstAssignment_Group5"
+<<<<<<< HEAD
 authors: Adrian Enrico Rodriguez, Gian Carlo Fernandez, Iris Salangad, John Kyle Lluz
 date: "7/11/2021"
 output:
   pdf_document: default
   html_document:
     df_print: paged
+=======
+author: "Adrian Enrico Rodriguez, Gian Carlo Fernandez, Iris Salangad, John Kyle Lluz"
+date: "7/11/2021"
+output:
+  html_document:
+    df_print: paged
+  pdf_document: default
+  word_document: default
+>>>>>>> 771e54ab72ea0248891a5bcc861996b04e4f4117
 ---
 
 ```{r setup, include=FALSE}
